@@ -16,18 +16,18 @@ export default {
 			image: {
 				position: 'right',
 				src:
-					'https://cdn.jsdelivr.net/gh/rdimascio/ck@1.5/assets/ck/tuxedos/tuxedo.jpg',
+					'https://cdn.jsdelivr.net/gh/rdimascio/peerless@1.0/assets/ck/tuxedos/tuxedo.jpg',
 			},
 			dropdowns: [
 				{
 					title: `Modern Fit Tuxedo Jacket`,
-					image: 'https://cdn.jsdelivr.net/gh/rdimascio/ck@1.5/assets/ck/tuxedos/jacket.jpg',
+					image: 'https://cdn.jsdelivr.net/gh/rdimascio/peerless@1.0/assets/ck/tuxedos/jacket.jpg',
 					id: 'tuxedoJackets',
 					data: tuxedoJacketData,
 				},
 				{
 					title: `Modern Fit Tuxedo Pant`,
-					image: 'https://cdn.jsdelivr.net/gh/rdimascio/ck@1.5/assets/ck/tuxedos/pants.jpg',
+					image: 'https://cdn.jsdelivr.net/gh/rdimascio/peerless@1.0/assets/ck/tuxedos/pants.jpg',
 					id: 'tuxedoPants',
 					data: tuxedoPantData,
 				},
